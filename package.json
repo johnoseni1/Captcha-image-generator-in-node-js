@@ -1,0 +1,22 @@
+{
+   "name":"captcha-image-generator",
+   "description":"captcha-image-generator",
+   "version":"1.1.0",
+   "homepage":"https://github.com/johnoseni1/Captcha-image-generator-in-node-js",
+   "repository":"git://github.com/johnoseni1/Captcha-image-generator-in-node-js.git",
+   "main":"./index.js",
+   
+   "dependencies":{
+      "canvas":"*"
+   },
+   "devDependencies":{
+      "mocha":"*",
+      "should":"*"
+   },
+   "scripts":{
+      "test":"mocha --reporter spec"
+   },
+   "engines":{
+      "node":">=0.6"
+   },
+}
