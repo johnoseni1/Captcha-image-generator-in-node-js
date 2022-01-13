@@ -53,7 +53,7 @@ captcha.use(drawText);
 captcha.use(drawLines);
 ```
 
-To add your own look at the middle folder in lib. You take a canvas in, modify it, and output it again. Simple stuff.
+To add your own look at the middle folder in lib. You take a canvas in, modify it, and output it again.
 
 
 
