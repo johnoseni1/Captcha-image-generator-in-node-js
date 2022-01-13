@@ -1,23 +1,5 @@
 
 
-## Information
-
-<table>
-<tr> 
-<td>Package</td><td>captchagen</td>
-</tr>
-<tr>
-<td>Description</td>
-<td>Captcha image generator</td>
-</tr>
-<tr>
-<td>Node Version</td>
-<td>>= 0.6</td>
-</tr>
-</table>
-
-![example](https://i.cloudup.com/j5gB0Piif2-3000x3000.png)
-
 ## Dependencies
 
 This relies on a native module called node-canvas. You will need to install cairo, so read https://github.com/learnboost/node-canvas/wiki before installing.
